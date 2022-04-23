@@ -9,10 +9,11 @@ input {
     flex-direction: column;
     border-radius: 5px;
     border: 1px solid gray;
+
 }
 
 label {
-    font-size: 12px;
+    font-size: 13px;
     color: gray;
 }
 
